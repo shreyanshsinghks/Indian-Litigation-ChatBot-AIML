@@ -44,7 +44,7 @@ To download the LLM Model click here [here](https://cloud.walletconnect.com/sign
 
 # Finally run the project
 
-First run ingest.py file
+ - First run ingest.py file
 
 ```bash
 python ingest.py
@@ -54,7 +54,7 @@ or (if above command does not work)
 ```bash
 python3 ingest.py
 ```
-After that run the model.py
+ - After that run the model.py
 
 ```bash
 chanlit run model.py -w
